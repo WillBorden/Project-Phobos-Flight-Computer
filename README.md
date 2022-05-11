@@ -1,4 +1,4 @@
-# Project-Phobos-Flight-Computer
+# Project Phobos SRAD Flight Computer
 Repository for software and documentation for the SRAD flight computer to be flows on the Project Phobos rocket at the 2022 Spaceport America Cup. We are currently running version 1.2 of the flight software.
 
 The computer has the following capabilities and peripherals:
