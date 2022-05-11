@@ -18,6 +18,7 @@ The following pieces of software and libraries are required to compile and write
 - Adafruit Sensor library - https://github.com/adafruit/Adafruit_Sensor
 - Adafruit BMP388 library - https://github.com/adafruit/Adafruit_BMP3XX
 - Adafruit FRAM library - https://github.com/adafruit/Adafruit_FRAM_SPI
+- Adafruit BNO055 library - modified version in this repository
 - Kalman filter library - https://github.com/rfetick/Kalman
 
 The Adafruit BNO055 library has been modified for this application, the modified version of the library can be downloaded from this repository, in a folder named Adafruit_BNO055-master
