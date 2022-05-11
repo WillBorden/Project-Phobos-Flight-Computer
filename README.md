@@ -21,3 +21,5 @@ The following pieces of software and libraries are required to compile and write
 - Kalman filter library - https://github.com/rfetick/Kalman
 
 The Adafruit BNO055 library has been modified for this application, the modified version of the library can be downloaded from this repository, in a folder named Adafruit_BNO055-master
+For info on how to install arduino libraries, look at this link: https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries
+For the Adafrtui_BNO055-master library it will have to be manually installed, as outlined in the webpage above.
